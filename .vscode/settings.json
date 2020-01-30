@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/TempleEscape/.vscode": true,
+		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/TempleEscape/Content": true,
+		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/TempleEscape/Intermediate": true
+	}
+}
