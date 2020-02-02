@@ -5,7 +5,7 @@
 			"name": "TempleEscape (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Debug Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
@@ -18,7 +18,7 @@
 			"name": "TempleEscape (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 DebugGame Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
@@ -31,7 +31,7 @@
 			"name": "TempleEscape (Development)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Development Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\Binaries\\Win64\\UE4.exe",
+			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
@@ -44,7 +44,7 @@
 			"name": "TempleEscape (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Shipping Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
@@ -57,7 +57,7 @@
 			"name": "TempleEscape (Test)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Test Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "TempleEscapeEditor Win64 Debug Build",
 			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "TempleEscapeEditor Win64 DebugGame Build",
 			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "TempleEscapeEditor Win64 Development Build",
 			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
 			],
 			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\TempleEscape\\TempleEscape.uproject\"",
+				"-project=\"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject\"",
 				"-game",
 				"-engine"
 			],
