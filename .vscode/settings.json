@@ -1,10 +1,10 @@
 {
 	"files.exclude": {
-		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/temple_escape/.git": true,
-		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/temple_escape/.vscode": true,
-		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/temple_escape/Content": true,
-		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/temple_escape/Intermediate": true,
-		"D:/DATABASE/_GIT/unreal_engine_cpp_developer_course/temple_escape/Saved": true
-	},
-	"C_Cpp.errorSquiggles": "Disabled"
+		"D:/DATABASE/_GIT/temple_escape/.git": true,
+		"D:/DATABASE/_GIT/temple_escape/.vs": true,
+		"D:/DATABASE/_GIT/temple_escape/.vscode": true,
+		"D:/DATABASE/_GIT/temple_escape/Content": true,
+		"D:/DATABASE/_GIT/temple_escape/Intermediate": true,
+		"D:/DATABASE/_GIT/temple_escape/Saved": true
+	}
 }
