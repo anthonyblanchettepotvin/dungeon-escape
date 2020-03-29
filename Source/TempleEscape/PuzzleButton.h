@@ -40,7 +40,4 @@ public:
 	TArray<AActor*> SubscribedPuzzles;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Puzzle")
 	TArray<AActor*> RegisteredPuzzles;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Puzzle", AdvancedDisplay)
-	bool bDebug = false;
 };
