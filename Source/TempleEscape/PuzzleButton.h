@@ -10,34 +10,47 @@
 #include "PuzzleButton.generated.h"
 
 /**
- * 
+ * PuzzleButton is the base class for any button that is part of a puzzle.
  */
 UCLASS()
 class TEMPLEESCAPE_API APuzzleButton : public ABaseButton, public IPuzzleCondition, public IPuzzleTrigger
 {
 	GENERATED_BODY()
 
-private:
-	virtual void Press() override;
+protected:
+	// Properties
+	/** Adjacent buttons to this button. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Puzzle)
+	TArray<APuzzleButton*> AdjacentButtons;
 
-	virtual bool Evaluate_Implementation() override;
-	virtual bool NotifyPuzzleStateChanged_Implementation() override;
-	virtual bool RegisterPuzzle_Implementation(AActor* Puzzle);
-	virtual bool UnregisterPuzzle_Implementation(AActor* Puzzle);
+	/** Puzzles registered to this puzzle condition. */
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Puzzle, AdvancedDisplay)
+	TArray<AActor*> RegisteredPuzzles;
+
+	/** Puzzles subscribed to this puzzle trigger. */
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Puzzle, AdvancedDisplay)
+	TArray<AActor*> SubscribedPuzzles;
+
+	// ABaseButton overrides
+	virtual void Press() override;
 
 	virtual bool Interact_Implementation() override;
 
-	virtual bool Trigger_Implementation() override;
-	virtual bool Subscribe_Implementation(AActor* Puzzle) override;
-	virtual bool Unsubscribe_Implementation(AActor* Puzzle) override;
-
 	virtual void SetIsPressed(bool Value) override;
 
-public:
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Puzzle")
-	TArray<APuzzleButton*> AdjacentButtons;
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Puzzle")
-	TArray<AActor*> SubscribedPuzzles;
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Puzzle")
-	TArray<AActor*> RegisteredPuzzles;
+	// IPuzzleCondition implementation
+	virtual bool Evaluate_Implementation() override;
+
+	virtual bool NotifyPuzzleStateChanged_Implementation() override;
+
+	virtual bool RegisterPuzzle_Implementation(AActor* Puzzle) override;
+
+	virtual bool UnregisterPuzzle_Implementation(AActor* Puzzle) override;
+
+	// IPuzzleTrigger implementation
+	virtual bool Trigger_Implementation() override;
+
+	virtual bool Subscribe_Implementation(AActor* Puzzle) override;
+
+	virtual bool Unsubscribe_Implementation(AActor* Puzzle) override;
 };
