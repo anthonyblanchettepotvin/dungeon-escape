@@ -9,13 +9,13 @@
 				"TempleEscape",
 				"Win32",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"TempleEscape",
 				"Win32",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"TempleEscape",
 				"Win32",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"TempleEscape",
 				"Win32",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"TempleEscape",
 				"Win32",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"TempleEscape",
 				"Win32",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"TempleEscape",
 				"Win32",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"TempleEscape",
 				"Win32",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"TempleEscape",
 				"Win32",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"TempleEscape",
 				"Win32",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"TempleEscape",
 				"Win32",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"TempleEscape",
 				"Win32",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"TempleEscape",
 				"Win32",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"TempleEscape",
 				"Win32",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"TempleEscape",
 				"Win32",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"TempleEscape",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"TempleEscape",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"TempleEscape",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"TempleEscape",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"TempleEscape",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"TempleEscape",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"TempleEscape",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"TempleEscape",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"TempleEscape",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -441,13 +441,13 @@
 				"TempleEscape",
 				"Win64",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"TempleEscape",
 				"Win64",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -467,7 +467,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -478,13 +478,13 @@
 				"TempleEscape",
 				"Win64",
 				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -495,13 +495,13 @@
 				"TempleEscape",
 				"Win64",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 				"TempleEscape",
 				"Win64",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -532,283 +532,13 @@
 				"TempleEscape",
 				"Win64",
 				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Debug Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Debug Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TempleEscape IOS Debug Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Debug Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS DebugGame Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS DebugGame Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TempleEscape IOS DebugGame Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS DebugGame Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Development Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Development Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TempleEscape IOS Development Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Development Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Shipping Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Shipping Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TempleEscape IOS Shipping Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Shipping Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Shipping",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Test Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Test Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"TempleEscape IOS Test Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
-			}
-		},
-		{
-			"label": "TempleEscape IOS Test Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"TempleEscape",
-				"IOS",
-				"Test",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -819,13 +549,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -836,7 +566,7 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -845,7 +575,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -856,13 +586,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Debug",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -873,13 +603,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -890,7 +620,7 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -899,7 +629,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -910,13 +640,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -927,13 +657,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -944,7 +674,7 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -953,7 +683,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		},
 		{
@@ -964,13 +694,13 @@
 				"TempleEscapeEditor",
 				"Win64",
 				"Development",
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject",
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+				"cwd": "D:\\Epic Games\\UE_4.24"
 			}
 		}
 	]
