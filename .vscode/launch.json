@@ -5,124 +5,124 @@
 			"name": "TempleEscape (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Debug Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "D:\\DATABASE\\_GIT\\temple_escape\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscape (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 DebugGame Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "D:\\DATABASE\\_GIT\\temple_escape\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscape (Development)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Development Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4.exe",
+			"program": "D:\\DATABASE\\_GIT\\temple_escape\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscape (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Shipping Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "D:\\DATABASE\\_GIT\\temple_escape\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscape (Test)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscape Win64 Test Build",
-			"program": "D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "D:\\DATABASE\\_GIT\\temple_escape\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscapeEditor (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscapeEditor Win64 Debug Build",
-			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"program": "D:\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject"
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscapeEditor (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscapeEditor Win64 DebugGame Build",
-			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"program": "D:\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject"
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TempleEscapeEditor (Development)",
 			"request": "launch",
 			"preLaunchTask": "TempleEscapeEditor Win64 Development Build",
-			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"program": "D:\\Epic Games\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject"
+				"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject"
 			],
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24",
+			"cwd": "D:\\Epic Games\\UE_4.24",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Epic Games\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "clr",
 			"request": "launch",
-			"program": "D:\\Jeux\\Epic Games\\UE_4.24\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"program": "D:\\Epic Games\\UE_4.24\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
 			"console": "externalTerminal",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"D:\\DATABASE\\_GIT\\unreal_engine_cpp_developer_course\\temple_escape\\TempleEscape.uproject\"",
+				"-project=\"D:\\DATABASE\\_GIT\\temple_escape\\TempleEscape.uproject\"",
 				"-game",
 				"-engine"
 			],
 			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "D:\\Jeux\\Epic Games\\UE_4.24"
+			"cwd": "D:\\Epic Games\\UE_4.24"
 		}
 	]
 }
