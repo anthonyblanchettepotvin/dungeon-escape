@@ -4,6 +4,7 @@
             "name": "UnrealEngine",
             "includePath": [
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source",
+                "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape\\Private",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\Engine",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\Runtime",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\Runtime\\Engine\\Classes",
@@ -502,7 +503,10 @@
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\Runtime\\AudioMixerCore",
                 "D:\\DATABASE\\_GIT\\temple_escape\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\TempleEscape",
                 "D:\\DATABASE\\_GIT\\temple_escape\\Source",
+                "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape\\Public",
                 "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape",
+                "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape\\Public\\Puzzle",
+                "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape\\Public\\Puzzle\\Components",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include\\cudamanager",
                 "D:\\Epic Games\\UE_4.24\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include\\filebuf",
