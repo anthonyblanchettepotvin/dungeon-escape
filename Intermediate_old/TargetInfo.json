@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TempleEscape",
+			"Path": "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TempleEscapeEditor",
+			"Path": "D:\\DATABASE\\_GIT\\temple_escape\\Source\\TempleEscapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
