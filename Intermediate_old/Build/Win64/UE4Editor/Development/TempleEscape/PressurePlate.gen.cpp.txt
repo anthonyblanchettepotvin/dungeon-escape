@@ -1,9 +1,0 @@
-D:\DATABASE\_GIT\temple_escape\Intermediate\Build\Win64\UE4Editor\Development\TempleEscape\Definitions.TempleEscape.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\DATABASE\_GIT\temple_escape\Source\TempleEscape/PressurePlate.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
-d:\database\_git\temple_escape\intermediate\build\win64\ue4editor\inc\templeescape\PressurePlate.generated.h

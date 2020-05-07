@@ -1,3 +1,0 @@
-D:\DATABASE\_GIT\temple_escape\Intermediate\Build\Win64\UE4Editor\Development\TempleEscape\Definitions.TempleEscape.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

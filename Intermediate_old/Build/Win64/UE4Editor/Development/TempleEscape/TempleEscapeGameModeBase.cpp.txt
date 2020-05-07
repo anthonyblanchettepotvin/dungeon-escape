@@ -1,7 +1,0 @@
-D:\DATABASE\_GIT\temple_escape\Intermediate\Build\Win64\UE4Editor\Development\TempleEscape\Definitions.TempleEscape.h
-d:\database\_git\temple_escape\source\templeescape\TempleEscapeGameModeBase.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\DATABASE\_GIT\temple_escape\Intermediate\Build\Win64\UE4Editor\Inc\TempleEscape\TempleEscapeGameModeBase.generated.h
