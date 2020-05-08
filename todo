@@ -1,0 +1,28 @@
+### PUZZLE SYSTEM REFACTOR ###
+- Create UPuzzleComponent
+    - Create the file and move everything into it
+    - Make sure it works
+    - Not all functions should be BlueprintNativeEvent, they should simply be BlueprintCallable
+- Remove all trace of IPuzzle and use UPuzzleComponent instead
+- Create UPuzzleConditionComponent
+- Remove all trace of IPuzzleCondition and use UPuzzleConditionComponent instead
+- Create UPuzzleTriggerComponent
+- Remove all trace of IPuzzleTrigger and use PuzzleTriggerComponent instead
+- Create UPuzzleRewardComponent
+- Remove all trace of IPuzzleReward and use PuzzleRewardComponent instead
+- Create UPuzzlePartComponent that encapsulate RegisterPuzzle() and UnregisterPuzzle()
+
+* Puzzle version of each actor (door, button, pressure plate and symbol display) should not be used from now on;
+* Regular actor (door, button, pressure plate and symbol display) should be composed of the new components in order to recreate their old puzzle version
+    of each and everyone of them;
+* Why ?
+    - I feel like interfaces are not the best for these kinds of things. Still a lot of code was repeated for each and everyone of the puzzle actor;
+    - I feel that it is way better for the designers, because it provides more base building blocks;
+    - Interfaces in Unreal Engine seems to be a bit limited;
+    - Composition over inheritance;
+* Interfaces would be better for ? (some notes taken from this site thread https://forums.unrealengine.com/development-discussion/c-gameplay-programming/65855-interface-vs-component-implementation)
+    - "Long story short, use interfaces for widespread actions that you can implement in a base class, use components to encapsulate more complex logic." - DamirH
+        - Ex. : IInteractable would be a great interface, because each actor that implements it could have a different behavior. In the other hand,
+            IInteractComponent would be better, because the logic would be pretty much the same for every actor composed of this component.
+    - "I feel that interfaces seem best used for situations where different classes need different implementations of the same set of methods
+        without needing to cast to the derived class and components are best used for things where the implementation will be the same for different classes." - Heoki
