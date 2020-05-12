@@ -81,3 +81,4 @@ DerivedDataCache/*
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+Content/MedievalDungeon/
