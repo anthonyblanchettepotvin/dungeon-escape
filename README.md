@@ -4,7 +4,7 @@ Game made during the [Unreal Engine C++ Developer: Learn C++ and Make Video Game
 Made by Anthony Blanchette-Potvin - A random dude
 
 ## Description
-In this game, your goal is to escape the dungeon with the golden gargoyle. The place has been abandonned for who knows how long, but you somehow ended up in there. You will have to go through ~~mind challenging~~ puzzles in order to unlock new rooms and progress through the level. To do so, the player is given the ability to grab and interact with certain objects throughout the dungeon.
+In this game, your goal is to escape the dungeon with the golden gargoyle. The place has been abandoned for who knows how long, but you somehow ended up in there. You will have to go through ~~mind challenging~~ puzzles in order to unlock new rooms and progress through the level. To do so, the player is given the ability to grab and interact with certain objects throughout the dungeon.
 
 Have fun!
 
