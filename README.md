@@ -1,7 +1,12 @@
 # Dungeon Escape
 Game made during the [Unreal Engine C++ Developer: Learn C++ and Make Video Games course](https://www.udemy.com/share/101WeuCEQfcFZQQnw=/) on [Udemy](https://www.udemy.com/).
 
-In this game, your goal is to escape the dungeon with the golden gargoyle. To do so, you'll have to go through ~~mind challenging~~ puzzles.
+Made by Anthony Blanchette-Potvin - A random dude
+
+## Description
+In this game, your goal is to escape the dungeon with the golden gargoyle. The place has been abandonned for who knows how long, but you somehow ended up in there. You will have to go through ~~mind challenging~~ puzzles in order to unlock new rooms and progress through the level. To do so, the player is given the ability to grab and interact with certain objects throughout the dungeon.
+
+Have fun!
 
 ## Demo
 Coming soon!
