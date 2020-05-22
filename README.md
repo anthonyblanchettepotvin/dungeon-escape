@@ -1,4 +1,6 @@
 # Dungeon Escape
+[![Releases](https://img.shields.io/github/v/release/anthonyblanchettepotvin/dungeon-escape)](https://github.com/anthonyblanchettepotvin/dungeon-escape/releases)
+
 Game made during the [Unreal Engine C++ Developer: Learn C++ and Make Video Games course](https://www.udemy.com/share/101WeuCEQfcFZQQnw=/) on [Udemy](https://www.udemy.com/).
 
 Made by Anthony Blanchette-Potvin - A random dude
