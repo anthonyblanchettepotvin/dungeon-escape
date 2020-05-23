@@ -11,7 +11,7 @@ In this game, your goal is to escape the dungeon with the golden gargoyle. The p
 Have fun!
 
 ## Demo
-Coming soon!
+[![Dungeon Escape v1.0.0 Demo](https://img.youtube.com/vi/Wf7jGgbNigM/0.jpg)](https://youtu.be/Wf7jGgbNigM "Dungeon Escape v1.0.0 Demo - Click to watch on YouTube!")
 
 ## Thanks
 - to Infuse Studio for their magnificient [Medieval Dungeon asset pack](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2)
